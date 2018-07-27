@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "vscode_maven",
+                "projectName": "vscode_maven",
+                "workingDirectory": "c:\\Users\\htan31\\Documents\\My Stuff\\My Project\\vscode_maven",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "vscode_maven",
+                "projectName": "vscode_maven",
+                "workingDirectory": "c:\\Users\\htan31\\Documents\\My Stuff\\My Project\\vscode_maven",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
